@@ -1,1 +1,0 @@
-game.check_wineer()
